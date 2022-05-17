@@ -1,0 +1,4 @@
+repository "Mission Clear Candy@lpwatcher1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
